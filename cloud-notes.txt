@@ -1,0 +1,3 @@
+Cloud computing delivers computing services over the internet.
+It helps businesses innovate faster and scale resources flexibly.
+Common service models include IaaS, PaaS, and SaaS.
